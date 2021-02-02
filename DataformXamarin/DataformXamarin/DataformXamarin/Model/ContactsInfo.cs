@@ -21,9 +21,6 @@ namespace DataformXamarin
         {
 
         }
-
-        //Using attributes
-        [DisplayOptions(ImageName = "contact.png")]
         public string FirstName
         {
             get { return this.firstName; }
